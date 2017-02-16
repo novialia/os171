@@ -1,0 +1,1 @@
+The tast of this week (Week 1) is more like an introduction to GIT, CLI, and scripting. There are many new things that have been learned by me such as how to pull and push a repository, create new file, etc.
