@@ -21,3 +21,7 @@ drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 week10
 drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 xtra
 /home/fasilkom/mahasiswa/n/novianti.aliasih/os171/week01
 Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\%b\%Y\ at\ %H:%M:%S
+Today is date +%d\%b\%Y\ at\ %H:%M:%S
+Today is date +%d\%b\%Y\ at\ %H:%M:%S
