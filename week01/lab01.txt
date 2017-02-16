@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 novianti.aliasih StafCS 4096 Feb 16 13:27 .
+drwx--x--x  3 novianti.aliasih StafCS 4096 Feb 16 11:24 ..
+drwxr-xr-x  8 novianti.aliasih StafCS 4096 Feb 16 12:03 .git
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 key
+-rw-r--r--  1 novianti.aliasih StafCS    0 Feb 16 13:27 lab01.txt
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 log
+-rw-r--r--  1 novianti.aliasih StafCS    7 Feb 16 11:24 README.md
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:35 sandbox
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 12:00 week00
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 12:06 week01
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:28 week02
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:28 week03
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:28 week04
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:29 week05
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:29 week06
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:29 week07
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:29 week08
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 week09
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 week10
+drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 xtra
+/home/fasilkom/mahasiswa/n/novianti.aliasih/os171/week01
