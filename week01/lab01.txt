@@ -20,13 +20,17 @@ drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 week09
 drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 week10
 drwxr-xr-x  2 novianti.aliasih StafCS 4096 Feb 16 11:30 xtra
 /home/fasilkom/mahasiswa/n/novianti.aliasih/os171/week01
+
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\%b\%Y\ at\ %H:%M:%S
+Today is date +%d\%b\%Y\ at\ %H:%M:%S
+Today is date +%d\%b\%Y\ at\ %H:%M:%S
 <<<<<<< HEAD
-Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
-Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
-Today is date +%d\%b\%Y\ at\ %H:%M:%S
-Today is date +%d\%b\%Y\ at\ %H:%M:%S
-Today is date +%d\%b\%Y\ at\ %H:%M:%S
 =======
 
 >>>>>>> 625c32b54ec973c5c7c8d794f95c3d248252a38a
 Today is date+%d\%b\%Y\at\%H:%M:S
+=======
+>>>>>>> 63cdd6bd04c741bd26d852c68a64c52ad9124f38
+Today is 17 Feb 2017 at 09:41:50
