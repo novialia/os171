@@ -1,0 +1,9 @@
+w01-170214-13-LR-About: Intellectual Property Rights, From: Lecturer
+w01-170214-13-LR-About: Intellectual Property Rights, From: Lecturer
+w01-170214-14-LR-About: Intellectual Property Rights, From: Lecturer
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-13-LR-About: Scripting, From: Lecturer
+w01-170216-14-LR-About: Scripting, From: Lecturer
+w01-170216-15-PS-About: Tasks Week 1: Introduction to GIT, CLI, Scripting
+w01-170218-14-PS-About: Tasks Week 1: Introduction to GIT, CLI, Scripting
+
