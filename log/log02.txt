@@ -1,0 +1,36 @@
+w02-170221-10-LR-About: Security and Protection, From: Lecturer (Pak Rahmat)
+
+w02-170221-10-LR-About: Security and Protection, From: Lecturer (Pak Rahmat)
+
+w02-170221-11-LR-About: Security and Protection, From: Lecturer (Pak Rahmat)
+
+w02-170221-11-LR-About: Security and Protection, From: Lecturer (Pak Rahmat)
+
+w02-170221-13-LR-About: Security, Protection and Intro to C, From: Lecturer (Pak Anwar)
+
+w02-170221-13-LR-About: Security, Protection and Intro to C, From: Lecturer (Pak Anwar)
+
+w02-170221-14-LR-About: Security, Protection and Intro to C, From: Lecturer (Pak Anwar)
+
+w02-170221-14-LR-About: Security, Protection and Intro to C, From: Lecturer
+ (Pak Anwar)
+w02-170223-13-LR-About: Pointer in C, From: Lecturer (Pak Anwar)
+w02-170223-13-LR-About: Pointer in C, From: Lecturer (Pak Anwar)
+w02-170223-14-LR-About: Pointer in C, From: Lecturer (Pak Anwar)
+w02-170223-14-LR-About: Pointer in C, From: Lecturer (Pak Anwar)
+w02-170223-15-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-15-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-16-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-16-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-17-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-17-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-20-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-20-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-21-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170223-21-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
+w02-170226-15-LR-About: C Programming Tutorial, From: https://youtu.be/-CpG3oATGIs
+w02-170226-15-LR-About: C Programming Tutorial, From: https://youtu.be/-CpG3oATGIs
+w02-170226-16-LR-About: C Programming Tutorial, From: https://youtu.be/-CpG3oATGIs
+w02-170226-16-LR-About: C Programming Tutorial, From: https://youtu.be/-CpG3oATGIs
+w02-170226-19-LR-About: C Programming Tutorial, From: https://youtu.be/-CpG3oATGIs
+w02-170226-19-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG and also Intro to C
