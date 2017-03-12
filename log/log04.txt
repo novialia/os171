@@ -1,0 +1,14 @@
+w04-170306-13-LR-About: Global and Local Variable, From: Lecturer
+w04-170306-13-LR-About: Global and Local Variable, From: Lecturer
+w04-170306-14-LR-About: Global and Local Variable, From: Lecturer
+w04-170306-14-LR-About: Global and Local Variable, From: Lecturer
+w04-170308-13-LR-About: Pointer, From: Lecturer
+w04-170308-13-LR-About: Pointer, From: Lecturer
+w04-170308-14-LR-About: Pointer, From: Lecturer
+w04-170308-14-LR-About: Pointer, From: Lecturer
+w03-170311-13-PS-About: Global and Local Variable, Pointer 
+w03-170311-13-PS-About: Global and Local Variable, Pointer 
+w03-170311-14-PS-About: Global and Local Variable, Pointer 
+w03-170311-14-PS-About: Global and Local Variable, Pointer 
+w03-170311-15-PS-About: Global and Local Variable, Pointer 
+w03-170311-15-PS-About: Global and Local Variable, Pointer 
