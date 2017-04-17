@@ -1,0 +1,13 @@
+w06-170411-10-LR-About: Fork, From: Lecturer
+w06-170411-10-LR-About: Fork, From: Lecturer
+w06-170411-11-LR-About: Fork, From: Lecturer
+w06-170411-11-LR-About: Fork, From: Lecturer
+w06-170413-10-LR-About: Deadlock and Semaphores, From: Lecturer
+w06-170413-10-LR-About: Deadlock and Semaphores, From: Lecturer
+w06-170413-11-LR-About: Deadlock and Semaphores, From: Lecturer
+w06-170413-11-LR-About: Deadlock and Semaphores, From: Lecturer
+w05-170415-09-PS-Task Week06: Fork
+w05-170415-10-PS-Task Week06: Fork
+w05-170415-10-PS-Task Week06: Fork
+w05-170415-11-PS-Task Week06: Fork
+w05-170415-11-PS-Task Week06: Fork
